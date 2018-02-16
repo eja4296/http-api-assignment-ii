@@ -1,26 +1,19 @@
 {
-  "name": "http-api-assignment-ii",
+  "name": "project1_prototype",
   "version": "1.0.0",
-  "description": "http api II HW",
+  "description": "IGME 430 Project 1 API Powered App",
   "main": "./src/server.js",
   "scripts": {
-    "start": "node ./src/server.js",
-    "pretest": "eslint ./src --fix",
-    "test": "echo \"Tests complete\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eja4296/http-api-assignment-ii.git"
+    "url": "git+https://github.com/eja4296/IGME430_Project1.git"
   },
   "author": "Erik Azzarano",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eja4296/http-api-assignment-ii/issues"
+    "url": "https://github.com/eja4296/IGME430_Project1/issues"
   },
-  "homepage": "https://github.com/eja4296/http-api-assignment-ii#readme",
-  "devDependencies": {
-    "eslint": "^4.17.0",
-    "eslint-config-airbnb": "^16.1.0",
-    "eslint-plugin-import": "^2.8.0"
-  }
+  "homepage": "https://github.com/eja4296/IGME430_Project1#readme"
 }
